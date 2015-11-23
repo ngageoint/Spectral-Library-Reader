@@ -5,6 +5,6 @@ When splib06a is read, it provides all the information you need to graph out the
 
 ![Acmite Graph](https://github.com/ngageoint/Spectral-Library-Reader/blob/master/Acemite_Graph.gif)
 
-You would use this class and the splib06a file if you had spectral reflectance data - for example multiband imagery of a mine in Chile - and you wanted to understand the presence or absence of copper bearing materials in the image. 
+You would use this class and the splib06a file if you had spectral reflectance data - for example multiband imagery of a mine in Chile - and you wanted to understand the presence or absence of particulair materials in the image (copper bearing minerals for instance) 
 
 ![Chile Mine](https://github.com/ngageoint/Spectral-Library-Reader/blob/master/ChileMine.png)
